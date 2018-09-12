@@ -1,0 +1,5 @@
+name:guoyanxai
+age:20
+user:{"name":"guoyanxai","age":"20","qq":"2537158536@qq.com"}
+qq: 2537158536@qq.com
+qq:2537158536@qq.com
