@@ -14,4 +14,4 @@ f();
 console.timeEnd('TEST');
 
 
-
+console.log(f());

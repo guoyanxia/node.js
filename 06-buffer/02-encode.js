@@ -7,7 +7,9 @@ const log = console.log,
               process.exit(1);     
               }
 log('user name: %s\npassword: %s', usr, pwd);
-const buf = new Buffer(usr + ':' + pwd);
+const buf = new Buffer(usr +':'+ pwd);
 log('Base64:', buf.toString('Base64'));
+
+
 
 
