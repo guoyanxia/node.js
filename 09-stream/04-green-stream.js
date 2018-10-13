@@ -11,5 +11,4 @@ GreenStream.prototype._write=function(chunk,encode,cb){
 
 util.inherits(GreenStream,Writable);
 var dst=new GreenStream();
-
 process.stdin.pipe(dst);
