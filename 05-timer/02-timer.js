@@ -13,7 +13,7 @@ function loop(){
 global.setTimeout(()=>{
   console.log("end");
   global.clearInterval(timeId);
-},500)
+},500);
 
 
 

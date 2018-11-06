@@ -1,0 +1,19 @@
+{
+  "name": "node.js-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyanxia/node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoyanxia/node.js/issues"
+  },
+  "homepage": "https://github.com/guoyanxia/node.js#readme"
+}

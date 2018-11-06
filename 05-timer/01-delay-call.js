@@ -5,10 +5,11 @@ function Bomb(){
 var bomb=new Bomb();
 Bomb.prototype.explode=function(){
   console.log(this.message);
-}
-var timeId=setTimeout(bomb.explode.bind(bomb),2000)
- // clearTimeout(timeId);
+};
+var timeId=setTimeout(bomb.explode.bind(bomb),2000);
+// clearTimeout(timeId);
 
+  
   
   
   

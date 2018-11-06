@@ -1,6 +1,6 @@
 #!/usr/bin/node
-const g=console.log,
-      arg=process.argv[2];
+const g=console.log;
+const arg=process.argv[2];
 if(typeof(arg)==='undefined'||arg==='--help'||arg==='-h'){
   help();
 
@@ -18,4 +18,6 @@ function help(){
 }
 function calc(){
   g(arg+'=%s',eval(arg));
+  
+  
 }
