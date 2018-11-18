@@ -1,0 +1,18 @@
+{
+
+    "host": "localhost",
+
+      "user": "root",
+
+        "password": "199718",
+
+          "database": "todo_list",
+
+            "connectionLimit": 10,
+
+              "supportBigNumbers": true
+
+
+}
+
+
